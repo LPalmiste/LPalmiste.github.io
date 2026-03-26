@@ -1,4 +1,4 @@
-# Léa Palmiste
+# Lorie Palmiste
 
 **Étudiante en Master 2 — Big Data, Analyse & Business Intelligence**  
 Université Sorbonne Paris Nord (Paris 13)
